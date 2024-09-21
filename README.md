@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-nb&label=Profile%20views&color=0e75b6&style=flat" alt="nimisha-nb" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Django**
+- 🌱 I’m currently learning **NextJS, NodeJS, Django**
 
 - 📫 How to reach me **nbnimisha04@gmail.com**
 
