@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nimisha and I'm an Aspiring Software Dev..</h2>
+<h2 align="center">Hi 👋! My name is Nimisha </h2>
 
 ###
 
